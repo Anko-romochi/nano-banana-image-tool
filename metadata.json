@@ -1,0 +1,5 @@
+{
+  "name": "Pose Painter AI",
+  "description": "An AI-powered tool to generate character images by sketching poses, adding reference images, and describing your scene. Bring your vision to life with Gemini.",
+  "requestFramePermissions": []
+}
